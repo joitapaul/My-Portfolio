@@ -19,9 +19,8 @@
 
 ### 🔗 Live Demo
 **[🌐 View Portfolio](https://my-portfolio-six-beige-95.vercel.app)**
-
 ### 📄 Resume
-**[📥 Download Resume](./public/resume.pdf)**
+**[📥 Download Resume](./resume.pdf)**
 
 </div>
 
